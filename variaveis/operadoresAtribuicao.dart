@@ -5,6 +5,4 @@ void main(){
   int quantidade = 0;
   quantidade++;
   
-
-
 }

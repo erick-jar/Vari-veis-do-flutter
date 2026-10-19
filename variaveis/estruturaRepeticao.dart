@@ -27,9 +27,7 @@ do {
   x++;
 } while (x < 3);
 
-
 // Comandos de Controle (break e continue)
-
 //  break: Interrompe e sai do laço de repetição imediatamente.
 //  continue: Pula a iteração atual e avança para a próxima repetição do laço.
 
