@@ -1,0 +1,147 @@
+Dart - Exercícios 
+
+Inserir no final do documento seu nome e o programa que você tiver concluído para auxiliar os demais alunos.  
+
+Antes de postar, veja se alguém colocou a solução com a mesma lógica, tendo a mesma lógica não precisa colocar o programa 
+
+Exercícios Básicos (1 a 10) 
+
+Crie uma função apresentarAluno() que receba nome e idade e exiba uma mensagem de apresentação. 
+
+Crie uma função ehMaiorDeIdade() que receba uma idade e retorne true ou false. 
+
+Faça um programa que exiba todos os números de 1 a 20 usando um laço de repetição. 
+
+Crie uma função que receba dois números e retorne o maior deles. 
+
+Faça uma função que receba uma nota e informe: 
+
+Aprovado (≥ 7) 
+
+Recuperação (≥ 5 e < 7) 
+
+Reprovado (< 5) 
+
+Crie uma função que receba um nome e um parâmetro opcional para exibir o nome em maiúsculas. 
+
+Faça uma função que receba uma lista de números e exiba apenas os números pares. 
+
+Crie uma função que conte quantos elementos existem em uma lista. 
+
+Faça um programa que some todos os números de uma lista. 
+
+Crie uma função que receba um número e informe se ele é positivo, negativo ou zero. 
+
+ 
+
+Exercícios sobre Parâmetros Opcionais e Nomeados (11 a 15) 
+
+Crie uma função cadastrarUsuario() com: 
+
+nome (obrigatório) 
+
+cidade (opcional, padrão "Rio de Janeiro") 
+
+Crie uma função exibirProduto() com: 
+
+nome do produto 
+
+preço 
+
+desconto opcional (padrão 0) 
+
+Faça uma função imprimirLinha() que possua um parâmetro nomeado caractere, com valor padrão "-". 
+
+Crie uma função boasVindas() com o parâmetro nomeado mostrarData, semelhante aos exemplos apresentados. 
+
+Crie uma função que receba: 
+
+nome do aluno 
+
+turma opcional 
+
+escola opcional 
+
+ 
+
+Exercícios com Nullable (16 a 20) 
+
+Crie uma função mostrarContato() que receba: 
+
+nome 
+
+telefone opcional (String?) 
+
+Faça uma função que receba um e-mail nullable e exiba "Não informado" quando for nulo. 
+
+Crie uma função que receba um nome nullable e utilize o operador ?? para atribuir "Visitante". 
+
+Faça uma função de cadastro que tenha: 
+
+nome obrigatório 
+
+endereço nullable 
+
+bairro nullable 
+
+Crie uma função que receba uma lista de nomes nullable e exiba apenas os nomes válidos. 
+
+ 
+
+Exercícios com Listas (21 a 25) 
+
+Crie uma lista com 10 números e exiba apenas os maiores que 50. 
+
+Faça uma função que receba uma lista de notas e calcule a média. 
+
+Crie uma função que encontre o menor número de uma lista. 
+
+Faça uma função que conte quantas vezes um determinado número aparece em uma lista. 
+
+Crie uma função que receba uma lista de nomes e exiba-os em ordem inversa. 
+
+ 
+
+Exercícios Desafiadores (26 a 30) 
+
+Sistema de Alunos: 
+
+Receba uma lista de nomes. 
+
+Exiba cada aluno numerado. 
+
+Sistema de Notas: 
+
+Receba uma lista de notas. 
+
+Exiba situação de cada aluno (Aprovado, Recuperação ou Reprovado). 
+
+Crie uma função gerarRelatorio() que receba: 
+
+professor 
+
+disciplina 
+
+turma opcional 
+
+data opcional 
+
+Sistema de Clientes: 
+
+Nome obrigatório. 
+
+Telefone nullable. 
+
+Cidade opcional. 
+
+Exibir um cadastro formatado. 
+
+Mini Agenda: 
+
+Crie uma lista de compromissos. 
+
+Função para adicionar compromisso. 
+
+Função para listar compromissos. 
+
+Função para pesquisar um compromisso pelo nome. 
